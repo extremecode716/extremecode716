@@ -20,7 +20,6 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/Web-Spring-informational?style=flat-square&logo=Spring&logoColor=white&color=6DB33F)
 ![](https://img.shields.io/badge/Web-jQuery-informational?style=flat-square&logo=jQuery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Web-Tomcat-informational?style=flat-square&logo=Apache-Tomcat&logoColor=white&color=F8DC75)
-![](https://img.shields.io/badge/Web-GraphQL-informational?style=flat-square&logo=GraphQL&logoColor=white&color=E10098)   
 ![](https://img.shields.io/badge/Game-DirectX-informational?style=flat-square&logo=Microsoft&logoColor=white&color=5E5E5E)
 ![](https://img.shields.io/badge/Game-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=000000)   
 ![](https://img.shields.io/badge/API-WinAPI-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
@@ -34,8 +33,10 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat-square&logo=Visual-Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&logo=Visual-Studio&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&logo=Eclipse-IDE&logoColor=white&color=2C2255)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=000000)
-   
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=000000)   
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)
+![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)   
+
 ### 🏆 GitHub Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=extremecode716&rank=SSS,SS,S,AAA,AA,B&theme=juicyfresh)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fextremecode716&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23E4FF34&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub User's stars](https://img.shields.io/github/stars/extremecode716?style=social) ![GitHub followers](https://img.shields.io/github/followers/extremecode716?style=social)
