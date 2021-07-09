@@ -18,7 +18,7 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/Web-CSS3-informational?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Web-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Web-Spring-informational?style=flat-square&logo=Spring&logoColor=white&color=6DB33F)
-![](https://img.shields.io/badge/Web-SpringBoot-informational?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)
+![](https://img.shields.io/badge/Web-SpringBoot-informational?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)   
 ![](https://img.shields.io/badge/Web-jQuery-informational?style=flat-square&logo=jQuery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Web-Tomcat-informational?style=flat-square&logo=Apache-Tomcat&logoColor=white&color=F8DC75)
 ![](https://img.shields.io/badge/Game-DirectX-informational?style=flat-square&logo=Microsoft&logoColor=white&color=5E5E5E)
