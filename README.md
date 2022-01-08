@@ -1,10 +1,11 @@
  ## <img src="https://github.com/extremecode716/extremecode716/blob/main/giphy.gif" width=75 height=75> Hello!
  
-Hi, I'm a backend developer. I was originally a game software developer. But I am trying to become a full-stack developer because I am curious and want to learn various things. And I am from Korea.   
+Hi, I'm a backend developer. I was originally a game software developer. But I am trying to become a full-stack developer because I am curious and want to learn various things. And I am from Korea.
+
 
 ### 🤝Profile & Contact
-[![More](https://img.shields.io/badge/Link-Extreme%20Code-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=blue)](https://github.com/extremecode716/ExtremeCode-Skills) [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:extremecode716@gmail.com)
-   
+[![More](https://img.shields.io/badge/info-Extreme%20Code-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=blue)](https://github.com/extremecode716/ExtremeCode-Skills) [![More](https://img.shields.io/badge/Blog-Dev-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=f7df1e)](https://velog.io/@extremecode716) [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:extremecode716@gmail.com)
+
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat-square&logo=c%2B%2B&&logoColor=white&color=00599C)
