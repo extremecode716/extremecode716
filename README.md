@@ -30,7 +30,6 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/Frame-QT-informational?style=flat-square&logo=QT&logoColor=white&color=41CD52)   
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/DBMS-Oracle-informational?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
-![](https://img.shields.io/badge/DBMS-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)   
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat-square&logo=Visual-Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&logo=Visual-Studio&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat-square&logo=IntelliJIDEA&logoColor=white&color=000000)
