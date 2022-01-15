@@ -1,6 +1,6 @@
  ## <img src="https://github.com/extremecode716/extremecode716/blob/main/giphy.gif" width=75 height=75> Hello!
  
-Hi, I'm a backend developer. I was originally a game software developer. But I am trying to become a full-stack developer because I am curious and want to learn various things. And I am from Korea.
+Hi, I'm a backend developer. I was originally a game software developer. But I am trying to become a full-stack developer because I am curious and want to learn various things. 
 
 
 ### 🤝Profile & Contact
