@@ -42,5 +42,5 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)   
 
 ### 🏆 GitHub Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=extremecode716&rank=SSS,SS,S,AAA,AA,B&theme=juicyfresh)   
+![trophy](https://github-profile-trophy.vercel.app/?username=extremecode716&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=juicyfresh)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fextremecode716&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23E4FF34&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![GitHub User's stars](https://img.shields.io/github/stars/extremecode716?style=social) ![GitHub followers](https://img.shields.io/github/followers/extremecode716?style=social)
