@@ -4,7 +4,7 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 
 
 ### 🤝Profile & Contact
-[![More](https://img.shields.io/badge/info-Extreme%20Code-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=blue)](https://github.com/extremecode716/ExtremeCode-Skills) [![More](https://img.shields.io/badge/Blog-Dev-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=f7df1e)](https://velog.io/@extremecode716) [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:extremecode716@gmail.com)
+[![More](https://img.shields.io/badge/info-Extreme%20Code-informational?style=for-the-badge&logoColor=white&color=000000&labelColor=blue)](https://github.com/extremecode716/ExtremeCode-Skills) [![](https://img.shields.io/badge/Gmail-informational?style=for-the-badge&logo=Gmail&logoColor=white&color=000000&labelColor=EA4335&link=mailto:extremecode716@gmail.com)](mailto:extremecode716@gmail.com)
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=A8B9CC)
@@ -22,6 +22,7 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/Web-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Web-Spring-informational?style=flat-square&logo=Spring&logoColor=white&color=6DB33F)
 ![](https://img.shields.io/badge/Web-SpringBoot-informational?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)
+![](https://img.shields.io/badge/Web-ASP.NET-informational?style=flat-square&logo=SpringBoot&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Web-jQuery-informational?style=flat-square&logo=jQuery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Kafka-informational?style=flat-square&logo=Apache-Kafka&logoColor=white&color=F8DC75)
 ![](https://img.shields.io/badge/gRPC-informational?style=flat-square&logo=gRPC&logoColor=white&color=F8DC75) 
@@ -39,7 +40,8 @@ Hi, I'm a backend developer. I was originally a game software developer. But I a
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat-square&logo=Eclipse-IDE&logoColor=white&color=2C2255)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat-square&logo=PyCharm&logoColor=white&color=000000)   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)
-![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)   
+![](https://img.shields.io/badge/OS-Window-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=OS&logoColor=gray&color=E10098)   
 
 ### 🏆 GitHub Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=extremecode716&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=juicyfresh)   
