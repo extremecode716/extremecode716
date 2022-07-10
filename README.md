@@ -1,7 +1,7 @@
  ## <img src="https://github.com/extremecode716/extremecode716/blob/main/giphy.gif" width=75 height=75> Hello!
  
-Hello! I'm a full stack developer.
-I previously worked as a game developer for a game company. I'm looking for fun things these days.
+Hello! I'm a full stack developer.   
+I previously worked as a game developer for a game company. I'm looking for fun things these days.   
 I like ExtremeCode.
 
 
